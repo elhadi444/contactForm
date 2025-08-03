@@ -13,6 +13,14 @@ Le backend est géré via les routes API de Next.js, et les données sont persis
 
 ---
 
+## ⚙️ Configuration
+
+Avant de lancer l’application, crée un fichier `.env` à la racine du projet avec une chaîne de connexion MongoDB :
+
+MONGODB_URI=url_to_mongodb_atlas
+
+ ---
+
 ##  Lancer avec Docker
 
 ```bash
