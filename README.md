@@ -13,7 +13,7 @@ Le backend est géré via les routes API de Next.js, et les données sont persis
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 Avant de lancer l’application, crée un fichier `.env` à la racine du projet avec une chaîne de connexion MongoDB :
 
