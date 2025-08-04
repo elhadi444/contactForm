@@ -117,7 +117,7 @@ const ContactForm = () => {
                         />
                     </div>
 
-                    <h2 className="text-lg font-semibold mb-4 mt-8">Disponibilite pour une visite</h2>
+                    <h2 className="text-lg font-semibold mb-4 mt-8">Disponibilité pour une visite</h2>
                     <div className="grid grid-cols-3 gap-2">
                         <select
                             onChange={(e) => setDay(e.target.value)}

@@ -9,7 +9,7 @@ export default function Home() {
 
         {/* Foreground content */}
         <div className="relative z-10 p-8 text-white">
-          <h1 className="text-3xl font-bold">Contactez l'agance</h1>
+          <h1 className="text-3xl font-bold">Contactez l'agence</h1>
           <ContactForm />
         </div>
       </div>
